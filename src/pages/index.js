@@ -58,10 +58,45 @@ const DEFAULT_IMAGES = [
     caption: 'Photo 6',
     description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
   },
+  {
+    id: '7',
+    source: full06,
+    thumbnail: thumb06,
+    caption: 'Photo 7',
+    description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
+  },
+  {
+    id: '8',
+    source: full06,
+    thumbnail: thumb06,
+    caption: 'Photo 7',
+    description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
+  },
+  {
+    id: '9',
+    source: full06,
+    thumbnail: thumb06,
+    caption: 'Photo 7',
+    description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
+  },
+  {
+    id: '10',
+    source: full06,
+    thumbnail: thumb06,
+    caption: 'Photo 7',
+    description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
+  },
+  {
+    id: '11',
+    source: full06,
+    thumbnail: thumb06,
+    caption: 'Photo 7',
+    description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
+  }  
 ]
 
 const HomeIndex = () => {
-  const siteTitle = 'Gatsby Starter - Strata'
+  const siteTitle = 'Soumya Aggarwal'
   const siteDescription = 'Site description'
 
   return (
@@ -83,6 +118,23 @@ const HomeIndex = () => {
               })
             )}
           />  
+        </section>
+        <section id="three">
+          <h2>Get in Touch</h2>
+        <form name="contact" method="POST" data-netlify="true">
+          <p>
+            <label>Your Name: <input type="text" name="name" /></label>  
+          </p>
+          <p>
+            <label>Your Email: <input type="email" name="email" /></label>
+          </p>
+          <p>
+            <label>Message: <textarea name="message"></textarea></label>
+          </p>
+          <p>
+            <button className="button" type="submit">Send</button>
+          </p>
+        </form>
         </section>
       </div>
     </Layout>
