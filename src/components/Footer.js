@@ -15,7 +15,7 @@ const Footer = () => (
           </a>
         </li>
         <li>
-          <a href="#" className="icon fa-instagram">
+          <a href="#" className="icon fa-dribbble">
             <span className="label">Dribbble</span>
           </a>
         </li>
@@ -26,7 +26,10 @@ const Footer = () => (
         </li>
       </ul>
       <ul className="copyright">
-        <li>&copy; Soumya Aggarwal</li>
+        <li>&copy; Gatsby Starter Strata</li>
+        <li>
+          Design: <a href="http://html5up.net">HTML5 UP</a>
+        </li>
       </ul>
     </div>
   </div>
