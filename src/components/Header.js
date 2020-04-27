@@ -12,7 +12,7 @@ const Header = () => (
       <h1>
         <strong>Soumya Aggarwal</strong>
       </h1>
-      <h2> Art Portfolio </h2>
+      <h1>Art Portfolio</h1>
     </div>
     <Footer />
   </header>
