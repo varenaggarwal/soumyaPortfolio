@@ -9,8 +9,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'gatsby-starter-default',
-        short_name: 'starter',
+        name: 'Soumya-Aggarwal',
+        short_name: 'SoumyaArt',
         start_url: '/',
         background_color: '#663399',
         theme_color: '#663399',
