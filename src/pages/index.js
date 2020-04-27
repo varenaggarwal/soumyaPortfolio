@@ -70,17 +70,17 @@ const DEFAULT_IMAGES = [
   },
   {
     id: '7',
-    source: full07,
-    thumbnail: thumb07,
-    caption: 'Calligraphy',
-    description: 'Font- German text, Chancery ( top: left to right), Crowquill (bottom)',
-  },
-  {
-    id: '8',
     source: full08,
     thumbnail: thumb08,
     caption: 'Paper quilling',
     description: 'Medium- Quilling strips',
+  },
+  {
+    id: '8',
+    source: full07,
+    thumbnail: thumb07,
+    caption: 'Calligraphy',
+    description: 'Font- German text, Chancery ( top: left to right), Crowquill (bottom)',
   },
   {
     id: '9',
