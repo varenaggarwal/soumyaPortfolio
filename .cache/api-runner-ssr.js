@@ -5,6 +5,12 @@ var plugins = [{
       plugin: require('/home/dr/Projects/soumyaPortfolio/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"Soumya-Aggarwal","short_name":"SoumyaArt","start_url":"/","background_color":"#000000","theme_color":"#000000","display":"minimal-ui","icon":"src/assets/images/icon.svg"},
     },{
+      plugin: require('/home/dr/Projects/soumyaPortfolio/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      options: {"plugins":[]},
+    },{
+      plugin: require('/home/dr/Projects/soumyaPortfolio/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      options: {"plugins":[],"trackingID":"none"},
+    },{
       plugin: require('/home/dr/Projects/soumyaPortfolio/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     }]
