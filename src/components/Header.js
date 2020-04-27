@@ -12,6 +12,7 @@ const Header = () => (
       <h1>
         <strong>Soumya Aggarwal</strong>
       </h1>
+      <h2> Art Portfolio </h2>
     </div>
     <Footer />
   </header>

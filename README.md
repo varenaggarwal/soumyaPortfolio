@@ -1,18 +1,12 @@
-# gatsby-starter-strata
+# Soumya Aggarwal Art Portfolio 
 
-**This is a starter for Gatsby.js V2.**
 
-**The older V1 version of this starter can be found on the v1 branch**
+## website
 
-Gatsby starter based on the Strata site template, designed by [HTML5 UP](https://html5up.net/strata). Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters and templates.
+https://soumya.netlify.com
 
-## Preview
+## current build status
 
-http://gatsby-strata.surge.sh/
-
-## Installation
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-`gatsby new gatsby-starter-strata https://github.com/codebushi/gatsby-starter-strata`
+[![Netlify Status](https://api.netlify.com/api/v1/badges/41cf33dd-41e2-4ed3-9177-4f013f27e509/deploy-status)](https://app.netlify.com/sites/soumya/deploys)
 
 Run `gatsby develop` in the terminal to start.
